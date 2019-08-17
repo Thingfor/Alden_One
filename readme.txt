@@ -7,3 +7,4 @@ Git is distributed version control system.
 
 					add nothing
 Git is free software distributed under the GPL.
+Git tracks changes.
